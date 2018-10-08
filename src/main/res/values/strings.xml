@@ -1,4 +1,15 @@
 <resources>
-    <string name="app_name">FirstProject</string>
-    <string name="gambar">gambar</string>
+    <string name="app_name">IT News</string>
+    <string name="techno_news">Techno News</string>
+    <string name="todo">TODO</string>
+    <string name="bann">TODO</string>
+    <string name="vuejs">TODO</string>
+    <string name="js">TODO</string>
+    <string name="gg">TODO</string>
+    <string name="sp">TODO</string>
+    <string name="km">back</string>
+    <string name="tv">Code politan adalah sebuah perkumpulan yang menawarkan banyak sekali pengetahuan tentang metode dan teknik pemrograman baik itu back end ataupun front end</string>
+    <string name="back">Back</string>
+    <string name="a">TODO</string>
+    <string name="firebase_merupakan_database_yang_disediakan_google_yang_sangat_competible_terhadap_bahasa_pemrograman_apapun_firebase_merupakan_nosql">Firebase merupakan database yang disediakan google yang sangat competible terhadap bahasa pemrograman apapun, firebase merupakan NoSql</string>
 </resources>
